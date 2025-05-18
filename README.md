@@ -1,10 +1,10 @@
 # My personal repo for Stock Analysis Zoomcamp 2025 
 
-The main repo of the project: [SAZC2025][https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp/tree/main]
+The main repo of the project: [SAZC2025](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp/tree/main)
 
 This second cohort starts in 19th of May, 2025. It will take roughly 6-7 weeks with, 5 weeks of lectures, 5 homeworks and 2 projects. I will share adjusted notebooks here, my own notebooks/scripts for homeworks and projects (there mmay be additional repos for projects which I will point out if so).
 
-I will also be sharing this learning process with small stories on my [medium blog][https://medium.com/@neskafebardagi]. Feel free to comment, share, and ask questions if you would have any.
+I will also be sharing this learning process with small stories on my [medium blog](https://medium.com/@neskafebardagi). Feel free to comment, share, and ask questions if you would have any.
 
 
 ## Setup & environment to reproduce 
